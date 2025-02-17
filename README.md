@@ -2,8 +2,6 @@ This project replicates the Netflix homepage and profile selection page, focusin
 ✨ Features
 ✅ Netflix-style homepage with banners & sections
 ✅ Profile selection page with smooth UI
-✅ Fully responsive design (mobile-friendly)
-✅ Hover effects & button styling
 🛠️ Tech Stack
 HTML – Structure of the web pages
 CSS – Styling and layout![netflixprofile](https://github.com/user-attachments/assets/0e7827ef-fca8-42b7-b8fd-88d1a185a552)
